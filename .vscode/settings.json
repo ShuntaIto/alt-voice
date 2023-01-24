@@ -1,0 +1,42 @@
+{
+    "cSpell.words": [
+      "AWSJSON",
+      "birthdate",
+      "camelcase",
+      "conduitvc",
+      "interactor",
+      "ProgressNote",
+      "libphonenumber",
+      "logomark",
+      "omamori",
+      "upsert",
+      "velocityjs",
+      "accountinterface",
+      "AWSJSON",
+      "birthdate",
+      "chara",
+      "Dexie",
+      "dropzone",
+      "ProgressNote",
+      "logomark",
+      "navitem",
+      "Omamori",
+      "smpte",
+      "Snackbars",
+      "tokushouhou",
+      "undocked",
+      "uuidv",
+      "Videocam",
+      "Zenkaku",
+      "zindex"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "eslint.lintTask.enable": true,
+    "eslint.workingDirectories": [
+      {
+        "mode": "auto"
+      }
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib",
+  }
